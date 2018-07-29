@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 27th, 2018
 
 ### Student Name:  
-(First and Last Name)
-
+William Fuller
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using the static webpage provided and jQuery, create a script that animates the page
+and renders it interactive with the user.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://wtf15-fsu.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to add the jQuery library into a webpage
+2. The different features of jquery and how to use them in javascript code
+3. How jQuery interacts with html and css through modification and DOM navigation
 

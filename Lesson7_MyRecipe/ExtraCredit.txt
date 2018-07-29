@@ -1,0 +1,4 @@
+The Extra page features a key lime pie recipe, DOM traversals in animating the
+portions of the page when the headers are clicked, CSS changes in the text
+highlighting when hovered over, and addition of a text tag to tell the user
+the header elements are interactive.
